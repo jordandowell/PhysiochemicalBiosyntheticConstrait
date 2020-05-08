@@ -1,0 +1,38 @@
+SAMPLEID,Species,Treatment ,fullmeta
+1,C_arvense,control,C_arvense_control
+2,C_arvense,control,C_arvense_control
+3,C_arvense,control,C_arvense_control
+4,C_arvense,control,C_arvense_control
+5,C_arvense,control,C_arvense_control
+6,C_arvense,control,C_arvense_control
+7,C_arvense,control,C_arvense_control
+8,C_arvense,control,C_arvense_control
+9,C_arvense,control,C_arvense_control
+10,C_arvense,Treatment ,C_arvense_Treatment
+11,C_arvense,Treatment ,C_arvense_Treatment
+12,C_arvense,Treatment ,C_arvense_Treatment
+13,C_arvense,Treatment ,C_arvense_Treatment
+14,C_arvense,Treatment ,C_arvense_Treatment
+15,C_arvense,Treatment ,C_arvense_Treatment
+16,C_arvense,Treatment ,C_arvense_Treatment
+17,C_arvense,Treatment ,C_arvense_Treatment
+18,C_arvense,Treatment ,C_arvense_Treatment
+19,A_millefolium,Control,A_millefolium_Control
+20,A_millefolium,Control,A_millefolium_Control
+21,A_millefolium,Control,A_millefolium_Control
+22,A_millefolium,Control,A_millefolium_Control
+23,A_millefolium,Control,A_millefolium_Control
+24,A_millefolium,Control,A_millefolium_Control
+25,A_millefolium,Control,A_millefolium_Control
+26,A_millefolium,Control,A_millefolium_Control
+27,A_millefolium,Control,A_millefolium_Control
+28,A_millefolium,Treatment ,A_millefolium_Treatment
+29,A_millefolium,Treatment ,A_millefolium_Treatment
+30,A_millefolium,Treatment ,A_millefolium_Treatment
+31,A_millefolium,Treatment ,A_millefolium_Treatment
+32,A_millefolium,Treatment ,A_millefolium_Treatment
+33,A_millefolium,Treatment ,A_millefolium_Treatment
+34,A_millefolium,Treatment ,A_millefolium_Treatment
+35,A_millefolium,Treatment ,A_millefolium_Treatment
+36,A_millefolium,Treatment ,A_millefolium_Treatment
+37,A_millefolium,Treatment ,A_millefolium_Treatment
