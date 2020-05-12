@@ -1,247 +1,49 @@
-Sample,Treatment1,Treatment2,Treatment3
-1,m ,andr,andr11C11
-2,m ,andr,andr1215
-3,m ,andr,andr21
-4,m ,andr,andr22C16
-5,m ,andr,andr319
-6,m ,andr,andr3216
-7,m ,andr,andr41C1
-8,m ,andr,andr4217
-9,f,andr,andr50C12
-10,m ,andr,andr519
-11,m ,andr,andr52C4
-12,f,andr,andr5F2A10
-13,v,andr,andr5veg5
-14,m ,andr,andr622
-15,m ,andr,andr62C12
-16,m ,andr,andr63C10
-17,m ,baby,baby21C15
-18,m ,baby,baby222
-19,m ,baby,baby31A11
-20,m ,baby,baby326
-21,v,baby,baby3vegC19
-22,m ,baby,baby51A9
-23,m ,baby,baby52A17
-24,m ,baby,baby61A12
-25,f,BG,BG10C3
-26,m ,BG,BG1118
-27,m ,BG,BG12C9
-28,m ,BG,BG132
-29,f,BG,BG20A10
-30,m ,BG,BG217
-31,m ,BG,BG22C17
-32,f,BG,BG30A3
-33,m ,BG,BG31A13
-34,m ,BG,BG32C5
-35,m ,BG,BG5112
-36,m ,BG,BG52A17
-37,m ,BG,BG53C16
-38,f,BG,BG604
-39,m ,BG,BG616
-40,m ,BG,BG6211
-41,m ,BG,BG63A8
-42,m ,BG,BG64C15
-43,m ,BG,BG651
-44,f,BG,BG7017
-45,m ,BG,BG71A5
-46,m ,BG,BG72A3
-47,m ,BG,BG7318
-48,f,BG,BG7F2C17
-49,v,BG,BG7vegC1
-50,m ,butter,butter10116
-51,m ,butter,butter10210
-52,m ,butter,butter117
-53,m ,butter,butter12A20
-54,m ,butter,butter4118
-55,m ,butter,butter41A13
-56,m ,butter,butter42C11
-57,m ,butter,butter61C3
-58,m ,butter,butter628
-59,m ,butter,butter633
-60,v,butter,butter6veg12
-61,m ,butter,butter72C17
-62,m ,CA,CA 1110
-63,m ,CA,CA 12C13
-64,m ,CA,CA 41C17
-65,m ,CA,CA 42C3
-66,m ,CA,CA 43C9
-67,m ,CA,CA 61A10
-68,v,CA,CA 6vegC11
-69,m ,CA,CA 713
-70,m ,CA,CA 72A14
-71,f,CA,CA10C18
-72,f,CA,CA1F215
-73,f,CA,CA50C11
-74,f,CA,CA6019
-75,m ,CA,CA62A14
-76,m ,CA,CA62A3
-77,f,CA,CA70C12
-78,m ,CA,CA916
-79,m ,cinder,cinder11C14
-80,m ,cinder,cinder12A4
-81,m ,cinder,cinder13A12
-82,m ,cinder,cinder21A10
-83,m ,cinder,cinder222
-84,m ,cinder,cinder31C8
-85,v,cinder,cinder3vegA17
-86,m ,cinder,cinder413
-87,m ,cinder,cinder42C15
-88,m ,cinder,cinder51C14
-89,m ,cinder,cinder52C12
-90,m ,cinder,cinder6113
-91,m ,cinder,cinder9110
-92,m ,cinder,cinder92C19
-93,f,cuke,cuke100A16
-94,m ,cuke,cuke101A8
-95,f,cuke,cuke1020A13
-96,m ,cuke,cuke102C7
-97,f,cuke,cuke304
-98,m ,cuke,cuke3120-1
-99,m ,cuke,cuke32C8
-100,f,cuke,cuke3F218
-101,f,cuke,cuke4017
-102,m ,cuke,cuke41C19
-103,m ,cuke,cuke42A9
-104,v,cuke,cuke4vegC10
-105,f,cuke,cuke60C13
-106,m ,cuke,cuke6114
-107,m ,cuke,cuke61A15
-108,m ,cuke,cuke6219
-109,f,cuke,cuke7019
-110,m ,cuke,cuke71A20
-111,m ,cuke,cuke72C5
-112,m ,cuke,cuke73A11
-113,m ,cush,cush21C1
-114,m ,cush,cush22A11
-115,m ,cush,cush41A12
-116,m ,cush,cush422
-117,m ,cush,cush429
-118,m ,cush,cush51A8
-119,m ,cush,cush52A4
-120,v,cush,cush5vegA14
-121,m ,cush,cush61C1
-122,m ,cush,cush6219
-123,m ,cush,cush712
-124,m ,cush,cush819
-125,m ,Embass,Embass1111
-126,m ,Embass,Embass1219
-127,m ,Embass,Embass31A20
-128,m ,Embass,Embass32C12
-129,m ,Embass,Embass51A5
-130,m ,Embass,Embass52C13
-131,m ,Embass,Embass61A16
-132,m ,Embass,Embass62C17
-133,v,Embass,Embass6vegA1
-134,m ,Embass,Embass7115
-135,m ,Embass,Embass72C11
-136,m ,Embass,Embass81C5
-137,m ,Embass,Embass82C8
-138,m ,Embass,Embass83C2
-139,m ,GiantP,GiantP11A11
-140,m ,GiantP,GiantP12C19
-141,m ,GiantP,GiantP31C19
-142,m ,GiantP,GiantP324
-143,v,GiantP,GiantP3vegC9
-144,m ,GiantP,GiantP41C7
-145,m ,GiantP,GiantP42C8
-146,m ,GiantP,GiantP51C14
-147,m ,GiantP,GiantP61A10
-148,m ,GiantP,GiantP62A6
-149,m ,GiantP,GiantP91C16
-150,m ,GiantP,GiantP92C5
-151,m ,hubb,hubb11A1
-152,m ,hubb,hubb134
-153,m ,hubb,hubb21C3
-154,m ,hubb,hubb2211
-155,f,hubb,hubb2F2A3
-156,m ,hubb,hubb4111
-157,m ,hubb,hubb4220
-158,m ,hubb,hubb51A11
-159,m ,hubb,hubb52C16
-160,m ,hubb,hubb61A16
-161,m ,hubb,hubb6220
-162,v,hubb,hubb6vegA17
-163,m ,hubb,hubb7014
-164,m ,hubb,hubb711
-165,m ,hubb,hubb726
-166,m ,hubb,hubb8113
-167,m ,LaEstre,LaEstre11A5
-168,m ,LaEstre,LaEstre12C1
-169,m ,LaEstre,LaEstre31C4
-170,m ,LaEstre,LaEstre32C14
-171,m ,LaEstre,LaEstre3313
-172,m ,LaEstre,LaEstre8110
-173,m ,LaEstre,LaEstre829
-174,v,LaEstre,LaEstre8veg1
-175,m ,LaEstre,LaEstre91C8
-176,m ,LaEstre,LaEstre92A15
-177,m ,nut,nut10114
-178,m ,nut,nut102C5
-179,m ,nut,nut11C13
-180,m ,nut,nut41A9
-181,m ,nut,nut42A14
-182,m ,nut,nut51A16
-183,m ,nut,nut52C19
-184,m ,nut,nut6110
-185,m ,nut,nut621
-186,m ,nut,nut91C9
-187,v,nut,nut9vegA6
-188,m ,rock,Rock10112
-189,m ,rock,Rock102C2
-190,m ,rock,Rock1120
-191,m ,rock,Rock12C9
-192,v,rock,Rock1veg13
-193,m ,rock,Rock41C16
-194,m ,rock,Rock42A1
-195,m ,rock,Rock7113
-196,m ,rock,Rock7212
-197,m ,rock,Rock81A12
-198,m ,rock,Rock82C15
-199,f,tex,tex10C18
-200,m ,tex,Tex11C17
-201,m ,tex,tex1211
-202,f,tex,tex20C15
-203,m ,tex,tex21C10
-204,m ,tex,tex2218
-205,v,tex,tex2vegA4
-206,f,tex,tex30A9
-207,m ,tex,tex31A10
-208,m ,tex,tex32C10
-209,f,tex,tex401
-210,m ,tex,tex41C11
-211,m ,tex,tex42A20
-212,f,tex,tex60C5
-213,m ,tex,tex613
-214,m ,tex,tex62A8
-215,f,water,water100A13
-216,m ,water,water10115
-217,m ,water,water101A6
-218,m ,water,water102A13
-219,f,water,water10C14
-220,f,water,water10F26
-221,m ,water,water1219
-222,v,water,water1veg5
-223,m ,water,water4116
-224,f,water,water50A1
-225,m ,water,water51A15
-226,m ,water,water825
-227,f,water,water90C14
-228,m ,water,water91C7
-229,m ,water,water9217
-230,f,winter,winter100A8
-231,m ,winter,winter1017
-232,m ,winter,winter1027
-233,v,winter,winter10vegA4
-234,f,winter,winter20A4
-235,m ,winter,winter2120
-236,m ,winter,winter22C4
-237,f,winter,winter2F2C2
-238,m ,winter,winter3111
-239,m ,winter,winter3218
-240,m ,winter,winter518
-241,m ,winter,winter52C12
-242,f,winter,winter605
-243,m ,winter,winter613
-244,m ,winter,winter626
-245,f,winter,winter70A16
-246,m ,winter,winter81A17
+Sample,Treatment1,Treatment2,Treatment3,Treatment4,TREATMENT
+1,R1_1005408,R1,1,UD,CONTROL
+2,L1_1005921,L1,1,UD,CONTROL
+3,L1_1005355,L1,1,UD,CONTROL
+4,L1_1005985,L1,1,UD,CONTROL
+5,L1_1006078,L1,1,UD,CONTROL
+6,R1_1006052,R1,1,UD,CONTROL
+7,L1_1006017,L1,1,UD,CONTROL
+8,L1_1006102,L1,1,UD,CONTROL
+9,L1_1005923,L1,1,UD,CONTROL
+10,R2_1006133,R2,2,PR,BIOTIC
+11,R2_1005434,R2,2,PR,BIOTIC
+12,L2_1006066,L2,2,PR,BIOTIC
+13,R2_1005345,R2,2,PR,BIOTIC
+14,L2_1006024,L2,2,PR,BIOTIC
+15,L2_1005254,L2,2,PR,BIOTIC
+16,R2_1006047,R2,2,PR,BIOTIC
+17,R2_1005436,R2,2,PR,BIOTIC
+18,R2_1005929,R2,2,PR,BIOTIC
+19,R2_1006006,R2,2,PR,BIOTIC
+20,R3_1005288,R3,3,PB,BIOTIC
+21,L3_1006065,L3,3,PB,BIOTIC
+22,L3_1006038,L3,3,PB,BIOTIC
+23,L3_1006061,L3,3,PB,BIOTIC
+24,R3_1006063,R3,3,PB,BIOTIC
+25,R3_1005992,R3,3,PB,BIOTIC
+26,R3_1005966,R3,3,PB,BIOTIC
+27,L3_1006044,L3,3,PB,BIOTIC
+28,R3_1006123,R3,3,PB,BIOTIC
+29,R4_1006067,R4,4,PR-CG,BIOTIC
+30,L4_1005446,L4,4,PR-CG,BIOTIC
+31,R4_1005246,R4,4,PR-CG,BIOTIC
+32,L4_1005917,L4,4,PR-CG,BIOTIC
+33,R4_1005231,R4,4,PR-CG,BIOTIC
+34,L4_1006068,L4,4,PR-CG,BIOTIC
+35,R4_1005924,R4,4,PR-CG,BIOTIC
+36,L4_1005439,L4,4,PR-CG,BIOTIC
+37,L4_1005955,L4,4,PR-CG,BIOTIC
+38,L4_1006040,L4,4,PR-CG,BIOTIC
+39,L5_1005931,L5,5,PB-CG,BIOTIC
+40,L5_1005948,L5,5,PB-CG,BIOTIC
+41,R5_1005314,R5,5,PB-CG,BIOTIC
+42,R5_1006097,R5,5,PB-CG,BIOTIC
+43,L5_1005999,L5,5,PB-CG,BIOTIC
+44,R5_1005963,R5,5,PB-CG,BIOTIC
+45,L5_1005987,L5,5,PB-CG,BIOTIC
+46,R5_1005415,R5,5,PB-CG,BIOTIC
+47,R5_1005416,R5,5,PB-CG,BIOTIC
+48,L5_1005373,L5,5,PB-CG,BIOTIC

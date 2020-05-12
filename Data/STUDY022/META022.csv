@@ -1,0 +1,247 @@
+Sample,Treatment1,Treatment2,Treatment3,TREATMENT
+1,m ,andr,andr11C11,CONTROL
+2,m ,andr,andr1215,CONTROL
+3,m ,andr,andr21,CONTROL
+4,m ,andr,andr22C16,CONTROL
+5,m ,andr,andr319,CONTROL
+6,m ,andr,andr3216,CONTROL
+7,m ,andr,andr41C1,CONTROL
+8,m ,andr,andr4217,CONTROL
+9,f,andr,andr50C12,CONTROL
+10,m ,andr,andr519,CONTROL
+11,m ,andr,andr52C4,CONTROL
+12,f,andr,andr5F2A10,CONTROL
+13,v,andr,andr5veg5,CONTROL
+14,m ,andr,andr622,CONTROL
+15,m ,andr,andr62C12,CONTROL
+16,m ,andr,andr63C10,CONTROL
+17,m ,baby,baby21C15,CONTROL
+18,m ,baby,baby222,CONTROL
+19,m ,baby,baby31A11,CONTROL
+20,m ,baby,baby326,CONTROL
+21,v,baby,baby3vegC19,CONTROL
+22,m ,baby,baby51A9,CONTROL
+23,m ,baby,baby52A17,CONTROL
+24,m ,baby,baby61A12,CONTROL
+25,f,BG,BG10C3,CONTROL
+26,m ,BG,BG1118,CONTROL
+27,m ,BG,BG12C9,CONTROL
+28,m ,BG,BG132,CONTROL
+29,f,BG,BG20A10,CONTROL
+30,m ,BG,BG217,CONTROL
+31,m ,BG,BG22C17,CONTROL
+32,f,BG,BG30A3,CONTROL
+33,m ,BG,BG31A13,CONTROL
+34,m ,BG,BG32C5,CONTROL
+35,m ,BG,BG5112,CONTROL
+36,m ,BG,BG52A17,CONTROL
+37,m ,BG,BG53C16,CONTROL
+38,f,BG,BG604,CONTROL
+39,m ,BG,BG616,CONTROL
+40,m ,BG,BG6211,CONTROL
+41,m ,BG,BG63A8,CONTROL
+42,m ,BG,BG64C15,CONTROL
+43,m ,BG,BG651,CONTROL
+44,f,BG,BG7017,CONTROL
+45,m ,BG,BG71A5,CONTROL
+46,m ,BG,BG72A3,CONTROL
+47,m ,BG,BG7318,CONTROL
+48,f,BG,BG7F2C17,CONTROL
+49,v,BG,BG7vegC1,CONTROL
+50,m ,butter,butter10116,CONTROL
+51,m ,butter,butter10210,CONTROL
+52,m ,butter,butter117,CONTROL
+53,m ,butter,butter12A20,CONTROL
+54,m ,butter,butter4118,CONTROL
+55,m ,butter,butter41A13,CONTROL
+56,m ,butter,butter42C11,CONTROL
+57,m ,butter,butter61C3,CONTROL
+58,m ,butter,butter628,CONTROL
+59,m ,butter,butter633,CONTROL
+60,v,butter,butter6veg12,CONTROL
+61,m ,butter,butter72C17,CONTROL
+62,m ,CA,CA 1110,CONTROL
+63,m ,CA,CA 12C13,CONTROL
+64,m ,CA,CA 41C17,CONTROL
+65,m ,CA,CA 42C3,CONTROL
+66,m ,CA,CA 43C9,CONTROL
+67,m ,CA,CA 61A10,CONTROL
+68,v,CA,CA 6vegC11,CONTROL
+69,m ,CA,CA 713,CONTROL
+70,m ,CA,CA 72A14,CONTROL
+71,f,CA,CA10C18,CONTROL
+72,f,CA,CA1F215,CONTROL
+73,f,CA,CA50C11,CONTROL
+74,f,CA,CA6019,CONTROL
+75,m ,CA,CA62A14,CONTROL
+76,m ,CA,CA62A3,CONTROL
+77,f,CA,CA70C12,CONTROL
+78,m ,CA,CA916,CONTROL
+79,m ,cinder,cinder11C14,CONTROL
+80,m ,cinder,cinder12A4,CONTROL
+81,m ,cinder,cinder13A12,CONTROL
+82,m ,cinder,cinder21A10,CONTROL
+83,m ,cinder,cinder222,CONTROL
+84,m ,cinder,cinder31C8,CONTROL
+85,v,cinder,cinder3vegA17,CONTROL
+86,m ,cinder,cinder413,CONTROL
+87,m ,cinder,cinder42C15,CONTROL
+88,m ,cinder,cinder51C14,CONTROL
+89,m ,cinder,cinder52C12,CONTROL
+90,m ,cinder,cinder6113,CONTROL
+91,m ,cinder,cinder9110,CONTROL
+92,m ,cinder,cinder92C19,CONTROL
+93,f,cuke,cuke100A16,CONTROL
+94,m ,cuke,cuke101A8,CONTROL
+95,f,cuke,cuke1020A13,CONTROL
+96,m ,cuke,cuke102C7,CONTROL
+97,f,cuke,cuke304,CONTROL
+98,m ,cuke,cuke3120-1,CONTROL
+99,m ,cuke,cuke32C8,CONTROL
+100,f,cuke,cuke3F218,CONTROL
+101,f,cuke,cuke4017,CONTROL
+102,m ,cuke,cuke41C19,CONTROL
+103,m ,cuke,cuke42A9,CONTROL
+104,v,cuke,cuke4vegC10,CONTROL
+105,f,cuke,cuke60C13,CONTROL
+106,m ,cuke,cuke6114,CONTROL
+107,m ,cuke,cuke61A15,CONTROL
+108,m ,cuke,cuke6219,CONTROL
+109,f,cuke,cuke7019,CONTROL
+110,m ,cuke,cuke71A20,CONTROL
+111,m ,cuke,cuke72C5,CONTROL
+112,m ,cuke,cuke73A11,CONTROL
+113,m ,cush,cush21C1,CONTROL
+114,m ,cush,cush22A11,CONTROL
+115,m ,cush,cush41A12,CONTROL
+116,m ,cush,cush422,CONTROL
+117,m ,cush,cush429,CONTROL
+118,m ,cush,cush51A8,CONTROL
+119,m ,cush,cush52A4,CONTROL
+120,v,cush,cush5vegA14,CONTROL
+121,m ,cush,cush61C1,CONTROL
+122,m ,cush,cush6219,CONTROL
+123,m ,cush,cush712,CONTROL
+124,m ,cush,cush819,CONTROL
+125,m ,Embass,Embass1111,CONTROL
+126,m ,Embass,Embass1219,CONTROL
+127,m ,Embass,Embass31A20,CONTROL
+128,m ,Embass,Embass32C12,CONTROL
+129,m ,Embass,Embass51A5,CONTROL
+130,m ,Embass,Embass52C13,CONTROL
+131,m ,Embass,Embass61A16,CONTROL
+132,m ,Embass,Embass62C17,CONTROL
+133,v,Embass,Embass6vegA1,CONTROL
+134,m ,Embass,Embass7115,CONTROL
+135,m ,Embass,Embass72C11,CONTROL
+136,m ,Embass,Embass81C5,CONTROL
+137,m ,Embass,Embass82C8,CONTROL
+138,m ,Embass,Embass83C2,CONTROL
+139,m ,GiantP,GiantP11A11,CONTROL
+140,m ,GiantP,GiantP12C19,CONTROL
+141,m ,GiantP,GiantP31C19,CONTROL
+142,m ,GiantP,GiantP324,CONTROL
+143,v,GiantP,GiantP3vegC9,CONTROL
+144,m ,GiantP,GiantP41C7,CONTROL
+145,m ,GiantP,GiantP42C8,CONTROL
+146,m ,GiantP,GiantP51C14,CONTROL
+147,m ,GiantP,GiantP61A10,CONTROL
+148,m ,GiantP,GiantP62A6,CONTROL
+149,m ,GiantP,GiantP91C16,CONTROL
+150,m ,GiantP,GiantP92C5,CONTROL
+151,m ,hubb,hubb11A1,CONTROL
+152,m ,hubb,hubb134,CONTROL
+153,m ,hubb,hubb21C3,CONTROL
+154,m ,hubb,hubb2211,CONTROL
+155,f,hubb,hubb2F2A3,CONTROL
+156,m ,hubb,hubb4111,CONTROL
+157,m ,hubb,hubb4220,CONTROL
+158,m ,hubb,hubb51A11,CONTROL
+159,m ,hubb,hubb52C16,CONTROL
+160,m ,hubb,hubb61A16,CONTROL
+161,m ,hubb,hubb6220,CONTROL
+162,v,hubb,hubb6vegA17,CONTROL
+163,m ,hubb,hubb7014,CONTROL
+164,m ,hubb,hubb711,CONTROL
+165,m ,hubb,hubb726,CONTROL
+166,m ,hubb,hubb8113,CONTROL
+167,m ,LaEstre,LaEstre11A5,CONTROL
+168,m ,LaEstre,LaEstre12C1,CONTROL
+169,m ,LaEstre,LaEstre31C4,CONTROL
+170,m ,LaEstre,LaEstre32C14,CONTROL
+171,m ,LaEstre,LaEstre3313,CONTROL
+172,m ,LaEstre,LaEstre8110,CONTROL
+173,m ,LaEstre,LaEstre829,CONTROL
+174,v,LaEstre,LaEstre8veg1,CONTROL
+175,m ,LaEstre,LaEstre91C8,CONTROL
+176,m ,LaEstre,LaEstre92A15,CONTROL
+177,m ,nut,nut10114,CONTROL
+178,m ,nut,nut102C5,CONTROL
+179,m ,nut,nut11C13,CONTROL
+180,m ,nut,nut41A9,CONTROL
+181,m ,nut,nut42A14,CONTROL
+182,m ,nut,nut51A16,CONTROL
+183,m ,nut,nut52C19,CONTROL
+184,m ,nut,nut6110,CONTROL
+185,m ,nut,nut621,CONTROL
+186,m ,nut,nut91C9,CONTROL
+187,v,nut,nut9vegA6,CONTROL
+188,m ,rock,Rock10112,CONTROL
+189,m ,rock,Rock102C2,CONTROL
+190,m ,rock,Rock1120,CONTROL
+191,m ,rock,Rock12C9,CONTROL
+192,v,rock,Rock1veg13,CONTROL
+193,m ,rock,Rock41C16,CONTROL
+194,m ,rock,Rock42A1,CONTROL
+195,m ,rock,Rock7113,CONTROL
+196,m ,rock,Rock7212,CONTROL
+197,m ,rock,Rock81A12,CONTROL
+198,m ,rock,Rock82C15,CONTROL
+199,f,tex,tex10C18,CONTROL
+200,m ,tex,Tex11C17,CONTROL
+201,m ,tex,tex1211,CONTROL
+202,f,tex,tex20C15,CONTROL
+203,m ,tex,tex21C10,CONTROL
+204,m ,tex,tex2218,CONTROL
+205,v,tex,tex2vegA4,CONTROL
+206,f,tex,tex30A9,CONTROL
+207,m ,tex,tex31A10,CONTROL
+208,m ,tex,tex32C10,CONTROL
+209,f,tex,tex401,CONTROL
+210,m ,tex,tex41C11,CONTROL
+211,m ,tex,tex42A20,CONTROL
+212,f,tex,tex60C5,CONTROL
+213,m ,tex,tex613,CONTROL
+214,m ,tex,tex62A8,CONTROL
+215,f,water,water100A13,CONTROL
+216,m ,water,water10115,CONTROL
+217,m ,water,water101A6,CONTROL
+218,m ,water,water102A13,CONTROL
+219,f,water,water10C14,CONTROL
+220,f,water,water10F26,CONTROL
+221,m ,water,water1219,CONTROL
+222,v,water,water1veg5,CONTROL
+223,m ,water,water4116,CONTROL
+224,f,water,water50A1,CONTROL
+225,m ,water,water51A15,CONTROL
+226,m ,water,water825,CONTROL
+227,f,water,water90C14,CONTROL
+228,m ,water,water91C7,CONTROL
+229,m ,water,water9217,CONTROL
+230,f,winter,winter100A8,CONTROL
+231,m ,winter,winter1017,CONTROL
+232,m ,winter,winter1027,CONTROL
+233,v,winter,winter10vegA4,CONTROL
+234,f,winter,winter20A4,CONTROL
+235,m ,winter,winter2120,CONTROL
+236,m ,winter,winter22C4,CONTROL
+237,f,winter,winter2F2C2,CONTROL
+238,m ,winter,winter3111,CONTROL
+239,m ,winter,winter3218,CONTROL
+240,m ,winter,winter518,CONTROL
+241,m ,winter,winter52C12,CONTROL
+242,f,winter,winter605,CONTROL
+243,m ,winter,winter613,CONTROL
+244,m ,winter,winter626,CONTROL
+245,f,winter,winter70A16,CONTROL
+246,m ,winter,winter81A17,CONTROL

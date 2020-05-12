@@ -1,0 +1,38 @@
+SAMPLEID,Species,Treatment ,fullmeta,TREATMENT
+1,C_arvense,control,C_arvense_control,CONTROL
+2,C_arvense,control,C_arvense_control,CONTROL
+3,C_arvense,control,C_arvense_control,CONTROL
+4,C_arvense,control,C_arvense_control,CONTROL
+5,C_arvense,control,C_arvense_control,CONTROL
+6,C_arvense,control,C_arvense_control,CONTROL
+7,C_arvense,control,C_arvense_control,CONTROL
+8,C_arvense,control,C_arvense_control,CONTROL
+9,C_arvense,control,C_arvense_control,CONTROL
+10,C_arvense,Treatment ,C_arvense_Treatment,CHEMICAL
+11,C_arvense,Treatment ,C_arvense_Treatment,CHEMICAL
+12,C_arvense,Treatment ,C_arvense_Treatment,CHEMICAL
+13,C_arvense,Treatment ,C_arvense_Treatment,CHEMICAL
+14,C_arvense,Treatment ,C_arvense_Treatment,CHEMICAL
+15,C_arvense,Treatment ,C_arvense_Treatment,CHEMICAL
+16,C_arvense,Treatment ,C_arvense_Treatment,CHEMICAL
+17,C_arvense,Treatment ,C_arvense_Treatment,CHEMICAL
+18,C_arvense,Treatment ,C_arvense_Treatment,CHEMICAL
+19,A_millefolium,Control,A_millefolium_Control,CONTROL
+20,A_millefolium,Control,A_millefolium_Control,CONTROL
+21,A_millefolium,Control,A_millefolium_Control,CONTROL
+22,A_millefolium,Control,A_millefolium_Control,CONTROL
+23,A_millefolium,Control,A_millefolium_Control,CONTROL
+24,A_millefolium,Control,A_millefolium_Control,CONTROL
+25,A_millefolium,Control,A_millefolium_Control,CONTROL
+26,A_millefolium,Control,A_millefolium_Control,CONTROL
+27,A_millefolium,Control,A_millefolium_Control,CONTROL
+28,A_millefolium,Treatment ,A_millefolium_Treatment,CHEMICAL
+29,A_millefolium,Treatment ,A_millefolium_Treatment,CHEMICAL
+30,A_millefolium,Treatment ,A_millefolium_Treatment,CHEMICAL
+31,A_millefolium,Treatment ,A_millefolium_Treatment,CHEMICAL
+32,A_millefolium,Treatment ,A_millefolium_Treatment,CHEMICAL
+33,A_millefolium,Treatment ,A_millefolium_Treatment,CHEMICAL
+34,A_millefolium,Treatment ,A_millefolium_Treatment,CHEMICAL
+35,A_millefolium,Treatment ,A_millefolium_Treatment,CHEMICAL
+36,A_millefolium,Treatment ,A_millefolium_Treatment,CHEMICAL
+37,A_millefolium,Treatment ,A_millefolium_Treatment,CHEMICAL
