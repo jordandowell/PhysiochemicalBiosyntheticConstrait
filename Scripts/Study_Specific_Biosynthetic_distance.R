@@ -54,6 +54,12 @@ StudyPaths<-list.dirs(path = ".", full.names = F, recursive = FALSE)
 GlobalMantel<-data.frame()
 GlobalVariantionpartitioning<-data.frame()
 GlobalCorrelation<-data.frame()
+GlobalStudysummaries<- data.frame()
+
+
+
+
+
 i<-1
 j<-1
 for( i in 1:length(StudyPaths)){
@@ -127,8 +133,12 @@ for( i in 1:length(StudyPaths)){
     
     #Sample 1-Correlation matrix
     SAMPLES.DIST <- as.dist(1 - cor(as.matrix((SAMPLES))))
+ 
+     #create an output for study summary data   
+    Studysummaryoutput<-data.frame(Dataset=0,Numbercompounds=0,numberSamples=0,MeanChemdist=0,SDChemdist=0,MeanEnzydist=0,SDEnzydist=0,MeanSampledist=0,SDSampledist=0)
     
-    
+    Studysummaryoutput[1,]<- c(StudyName, numberofcompounds,numberofsamples,mean(CHEMISTRY.DIST),sd(CHEMISTRY.DIST),mean(ENZYMES.DIST),sd(ENZYMES.DIST), mean(abs(SAMPLES.DIST)),sd(SAMPLES.DIST)   )
+    GlobalStudysummaries<- rbind(GlobalStudysummaries,Studysummaryoutput)
     #create dataframe to store outputs 
     MantelOutput<-data.frame(Dataset=0,Comparisons=0,MantelR=0, SimPval=0, HypothesisTest=0, Std.obs=0, Expectation=0, Variance=0)
     
@@ -289,7 +299,7 @@ levels(GlobalVariantionpartitioning$Component)[1:7]<- c("[E|C]","[E|C+E:C]","[E|
 write.csv(GlobalVariantionpartitioning,"../Output_Tables/Global/Global_VariancePartition.csv")
 
 
-
+write.csv(GlobalStudysummaries,"../Output_Tables/Global/Global_Study_summary.csv")
 
 
 
